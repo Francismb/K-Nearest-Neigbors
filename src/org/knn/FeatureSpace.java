@@ -12,7 +12,7 @@ import java.util.Comparator;
 
 /**
  * Project K-Nearest-Neighbors
- * Created by Francis on 10/19/15.
+ * Created by Francis on 20/03/15.
  * <p/>
  * This is an implementation of knn classification.
  * It is used to classify {@link Instance}

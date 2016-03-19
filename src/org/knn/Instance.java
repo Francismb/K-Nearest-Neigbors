@@ -6,8 +6,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Project ByteCodeMapper
- * Created by Francis on 10/19/15.
+ * Project K-Nearest-Neighbors
+ * Created by Francis on 20/03/15.
  * <p/>
  * A Instance<T> represents a list of Features which are used
  * to categorise the instance.

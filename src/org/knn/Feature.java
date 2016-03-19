@@ -2,7 +2,7 @@ package org.knn;
 
 /**
  * Project K-Nearest-Neighbors
- * Created by Francis on 10/19/15.
+ * Created by Francis on 20/03/15.
  * <p/>
  * A {@link Feature} represents a category.
  * A {@link Feature} is compared to a {@link Instance} to calculate distance between them.
